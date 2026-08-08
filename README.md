@@ -3,6 +3,7 @@
 <br>
 
 <div align="center">
+
   <img
     src="https://github-readme-stats.vercel.app/api?username=NeithesyYR&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1"
     height="150"
@@ -14,6 +15,7 @@
     height="150"
     alt="languages graph"
   />
+
 </div>
 
 <br>
@@ -58,13 +60,13 @@
 <div align="left">
 
   <img
-    src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge"
+    src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge"
     height="35"
     alt="instagram logo"
   />
 
   <img
-    src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge"
+    src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge"
     height="35"
     alt="discord logo"
   />
@@ -74,10 +76,12 @@
 <br>
 <br>
 
+<!-- SNAKE ANIMATION -->
+
 <div align="center">
 
   <img
-    src="https://raw.githubusercontent.com/NeithesyYR/NeithesyYR/output/github-contribution-grid-snake.svg"
+    src="https://raw.githubusercontent.com/NeithesyYR/NeithesyYR/refs/heads/output/github-contribution-grid-snake.svg"
     alt="Snake animation"
     width="100%"
   />
