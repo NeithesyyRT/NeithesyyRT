@@ -81,7 +81,7 @@
 <div align="center">
 
   <img
-    src="https://raw.githubusercontent.com/NeithesyYR/NeithesyYR/refs/heads/output/github-contribution-grid-snake.svg"
+    src="https://raw.githubusercontent.com/NeithesyYR/NeithesyYR/output/github-contribution-grid-snake.svg"
     alt="Snake animation"
     width="100%"
   />
