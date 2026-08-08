@@ -5,13 +5,13 @@
 <div align="center">
 
   <img
-    src="https://github-readme-stats.vercel.app/api?username=NeithesyyRT&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1"
+    src="https://github-readme-stats.vercel.app/api?username=NeithesyYR&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false"
     height="150"
     alt="stats graph"
   />
 
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=NeithesyyRT&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeithesyYR&layout=compact&langs_count=5&theme=dracula&hide_border=false"
     height="150"
     alt="languages graph"
   />
@@ -24,7 +24,7 @@
   align="right"
   height="150"
   src="https://i.pinimg.com/736x/92/b6/3e/92b63e9f521161e94f6221560dc354d3.jpg"
-  alt="Anime image"
+  alt="Anime"
 />
 
 <br>
@@ -76,12 +76,10 @@
 <br>
 <br>
 
-<!-- SNAKE ANIMATION -->
-
 <div align="center">
 
   <img
-    src="https://raw.githubusercontent.com/NeithesyyRT/NeithesyyRT/output/github-contribution-grid-snake-dark.svg"
+    src="https://raw.githubusercontent.com/NeithesyYR/NeithesyyRT/output/github-contribution-grid-snake-dark.svg"
     alt="Snake animation"
     width="100%"
   />
