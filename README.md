@@ -6,7 +6,7 @@
 
   <img src="https://github-readme-stats.shion.dev/api?username=NeithesyyRT&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1&height=150" height="150" alt="stats graph" />
 
-  <img src="https://github-readme-stats.shion.dev/api/top-langs?username=NeithesyyRT&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&order=2&height=150" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs?username=NeithesyyRT&locale=en&hide_title=false&layout=compact&card_width=420&langs_count=10&theme=dracula&hide_border=false&order=2&height=180" height="180" alt="languages graph" />
 
 </div>
 
